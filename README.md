@@ -39,6 +39,6 @@ yarn dev ( This will run the server)
 
 ### Student's from Wyncode Academy's Cohort 37
 
-- Albert Palacio
-- Michael Edgecombe
-- Robert Garcia
+- Albert Palacio (Primary focus was Frontend with some Backend)
+- Michael Edgecombe (Navbar and Footer)
+- Robert Garcia (Backend)
